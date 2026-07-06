@@ -1,4 +1,4 @@
-# 🛡️ RateShield
+# 🛡️ RateShield.                   
 
 > **Distributed Rate Limiting — done right. One file. Zero compromise.**
 
